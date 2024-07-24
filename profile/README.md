@@ -1,10 +1,20 @@
 # Bienvenid@s al Perfil de mi Organizacion para clases!
 
-<p align="left" style="text-align:left;">
-  <a href="https://www.duoc.cl/">
-    <img alt="Github Universe" src="img/logo.png" width="1040"/>
-  </a>
-</p>
+
+<div class="row d-flex flex-column flex-lg-row">
+    <a class="grow-on-hover C" href="https://www.duoc.cl/escuela/informatica-telecomunicaciones/" rel="noopener noreferrer" target="_self">
+    <div class="wrapper-on-top-image dark-layer">
+        <div class="badge escuela E-IyT">
+            <svg class="feather feather-bar-chart" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+            <line x1="12" x2="12" y1="20" y2="10"></line>
+            <line x1="18" x2="18" y1="20" y2="4"></line>
+            <line x1="6" x2="6" y1="20" y2="16"></line></svg>
+        </div>
+        <p class="dark"><b>ESCUELA DE</b></p>
+        <h2 class="dark">Informática y Telecomunicaciones</h2>
+    </div><img src="/wp-content/uploads/2020/06/escuela-it.jpg"></a> 
+</div>
+                        
 
 ## Sobre esta Organization
 
