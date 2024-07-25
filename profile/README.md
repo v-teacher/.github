@@ -2,9 +2,11 @@
 
 ## Sobre esta Organización
 
-#### 👋 Hola, soy la docente Valentina. Les doy la bienvenida al perfil de mi organización, donde encontrarán repositorios actividades relacionados a clases que tocan principalmente los temas de **Infrastructura**, **Redes**, **Tecnologías Cloud**, **DevOps**, **Site Reliability Engineering**, entre otros.
+#### 👋 Hola, soy la docente Valentina. 
 
-#### Este perfil no es el oficial de la [Escuela](https://www.duoc.cl/escuela/informatica-telecomunicaciones/); ha sido creado por mí como docente. Si desea ver el perfil oficial de GitHub, por favor visite: https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/
+Les doy la bienvenida al perfil de mi organización, donde encontrarán repositorios actividades relacionados a clases que tocan principalmente los temas de **Infrastructura**, **Redes**, **Tecnologías Cloud**, **DevOps**, **Site Reliability Engineering**, entre otros.
+
+Este perfil no es el oficial de la [Escuela](https://www.duoc.cl/escuela/informatica-telecomunicaciones/); ha sido creado por mí como docente. Si desea ver el perfil oficial de GitHub, por favor visite: https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/
 
 
 ### 🛠️ Technologies & Tools
