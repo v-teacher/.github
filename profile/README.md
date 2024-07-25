@@ -1,26 +1,11 @@
-# Bienvenid@s al Perfil de mi Organizacion para clases!
+# Duoc UC - Escuela de Informática y Telecomunicaciones
 
+## Sobre esta Organización
 
-<div class="row d-flex flex-column flex-lg-row">
-    <a class="grow-on-hover C" href="https://www.duoc.cl/escuela/informatica-telecomunicaciones/" rel="noopener noreferrer" target="_self">
-    <div class="wrapper-on-top-image dark-layer">
-        <div class="badge escuela E-IyT">
-            <svg class="feather feather-bar-chart" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-            <line x1="12" x2="12" y1="20" y2="10"></line>
-            <line x1="18" x2="18" y1="20" y2="4"></line>
-            <line x1="6" x2="6" y1="20" y2="16"></line></svg>
-        </div>
-        <p class="dark"><b>ESCUELA DE</b></p>
-        <h2 class="dark">Informática y Telecomunicaciones</h2>
-    </div><img src="/wp-content/uploads/2020/06/escuela-it.jpg"></a> 
-</div>
-                        
+#### 👋 Hola, soy la docente Valentina. Les doy la bienvenida al perfil de mi organización, donde encontrarán repositorios actividades relacionados a clases que tocan principalmente los temas de **Infrastructura**, **Redes**, **Tecnologías Cloud**, **DevOps**, **Site Reliability Engineering**, entre otros.
 
-## Sobre esta Organization
+#### Este perfil no es el oficial de la [Escuela](https://www.duoc.cl/escuela/informatica-telecomunicaciones/); ha sido creado por mí como docente. Si desea ver el perfil oficial de GitHub, por favor visite: https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/
 
-#### 👋 Hola Soy la docente Valentina
-
-He creado este organización para ser usada en las actividades de clases relacionadas a los temas de **Infrastructura**, **Redes**, **Tecnologías Cloud**, **DevOps**, **Site Reliability Engineering**, entre otros.
 
 ### 🛠️ Technologies & Tools
 
@@ -37,9 +22,24 @@ Algunas de las Herramientas & Tecnologías usadas en las actividades de esta org
 
 ### 💬 Conectemos
 
-📫 Pueden conctarme en mi correo docente [val.munoz@profesor.duoc.cl] o tambien en **LinkedIn** mensajeando a mi [perfil](https://www.linkedin.com/in/valentina-mvaleria).
+📫 Pueden escribir a mi correo electrónico docente val.munoz@profesor.duoc.cl o también en **LinkedIn** mensajeando a mi [perfil](https://www.linkedin.com/in/valentina-mvaleria).
 
-Si tiene preguntas dudas o pueden abrir un issue en el repo que corresponda.*
+Si tiene preguntas o dudas pueden contactarme por los canales mencionados o abrir un issue en el repo que corresponda.
+
+<div class="col-12 mb-5">
+    <div class="container">
+        <div class="row border">
+            <div class="col-md-6 p-0 m-0"><img class="img-fluid" 
+            src="https://www.duoc.cl/wp-content/uploads/2020/06/escuela-it.jpg" width="1040></div>
+            <div class="col-md-6 p-4 d-flex justify-content-center 
+            align-items-center text-left">
+                <div>
+                    <h4 class="font-weight-bolder"> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!---
 v-teacher/v-teacher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
