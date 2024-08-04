@@ -6,7 +6,7 @@
 
 Les doy la bienvenida al perfil de mi organización, donde encontrarán repositorios actividades relacionados a clases que tocan principalmente los temas de **Infrastructura**, **Redes**, **Tecnologías Cloud**, **DevOps**, **Site Reliability Engineering**, entre otros.
 
-Este perfil no es el oficial de la [Escuela](https://www.duoc.cl/escuela/informatica-telecomunicaciones/); ha sido creado por mí como docente. Si desea ver el perfil oficial de GitHub, por favor visite: https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/
+Este perfil no es el oficial de la [Escuela](https://www.duoc.cl/escuela/informatica-telecomunicaciones/); ha sido creado por mí como docente. Si desea ver el perfil oficial, por favor visite: https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/
 
 
 ### 🛠️ Technologies & Tools
@@ -25,7 +25,7 @@ Algunas de las Herramientas & Tecnologías usadas en las actividades de esta org
 ### 💬 Conectemos
 
 📫 Pueden escribir a mi correo electrónico docente val.munoz@profesor.duoc.cl. 
-Si lo desean, también puenden agregarme en **LinkedIn** solicitando conectar a mi [perfil](https://www.linkedin.com/in/valentina-mvaleria).
+Si lo desean, también pueden agregarme en **LinkedIn** solicitando conectar a mi [perfil](https://www.linkedin.com/in/valentina-mvaleria).
 
 Si tiene preguntas o dudas pueden contactarme al correo docente o abrir un issue en el repo que corresponda.
 
