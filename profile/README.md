@@ -24,9 +24,9 @@ Algunas de las Herramientas & Tecnologías usadas en las actividades de esta org
 
 ### 💬 Conectemos
 
-📫 Pueden escribir a mi correo electrónico docente val.munoz@profesor.duoc.cl o a través de la plataforma de AVA.
+📫 Pueden contactarme a mi correo electrónico docente val.munoz@profesor.duoc.cl o a través de la plataforma de AVA.
 
-Si tiene preguntas o dudas pueden contactarme al correo docente o abrir un issue en el repo que corresponda.
+Si tiene preguntas o dudas repecto referente a lo contenido en esta organización, pueden contactarme al correo docente o abrir un issue en el repositorio que corresponda.
 
 <div class="col-12 mb-5">
     <div class="container">
