@@ -4,7 +4,7 @@
 
 #### 👋 Hola, soy la docente Valentina. 
 
-Les doy la bienvenida al perfil de mi organización, donde encontrarán repositorios de actividades de clases relacionadas principalmente sobre temas de **Infrastructura**, **Redes**, **Tecnologías Cloud**, **DevOps**, **Site Reliability Engineering**, entre otros.
+Les doy la bienvenida al perfil de mi organización, donde encontrarán repositorios de actividades de clases principalmente relacionadas a temas de **Infrastructura**, **Redes**, **Tecnologías Cloud**, **DevOps**, **Site Reliability Engineering**, entre otros.
 
 Este perfil no es el oficial de la [Escuela de Informatica y Telecomunicaciones](https://www.duoc.cl/escuela/informatica-telecomunicaciones/); ha sido creado por mí como docente para apoyar en actividades relacionadas con las clases que esté dictando en los diferentes curso a lo largo del año. Si desea ver el perfil oficial, por favor visite: https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/
 
