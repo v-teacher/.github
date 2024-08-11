@@ -24,8 +24,7 @@ Algunas de las Herramientas & Tecnologías usadas en las actividades de esta org
 
 ### 💬 Conectemos
 
-📫 Pueden escribir a mi correo electrónico docente val.munoz@profesor.duoc.cl. 
-Si lo desean, también pueden agregarme en **LinkedIn** solicitando conectar a mi [perfil](https://www.linkedin.com/in/valentina-mvaleria).
+📫 Pueden escribir a mi correo electrónico docente val.munoz@profesor.duoc.cl o a través de la plataforma de AVA.
 
 Si tiene preguntas o dudas pueden contactarme al correo docente o abrir un issue en el repo que corresponda.
 
